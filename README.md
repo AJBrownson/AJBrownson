@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnA3ZzEzMW5jejd0ajMxZDBudGwxMDZieG5odmIyb3gxcXVubzljcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="tech bro" />
-</div>
+
 
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
@@ -12,6 +12,9 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=AJBrownson&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
 **AJBrownson/AJBrownson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
