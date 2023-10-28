@@ -77,10 +77,6 @@ I am enthusiastic about everything tech <img src="https://media.giphy.com/media/
 ### &#129315; Daily dose of Dev Humor:
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
----
-
-### :wave: Thanks for stopping by. See ya later 
-
 
 
 <!--
