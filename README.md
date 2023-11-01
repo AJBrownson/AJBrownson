@@ -25,8 +25,6 @@
 </a>
 </div>
 
-<br />
-
 [![An image of @ajbrownson's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ajbrownson)](https://holopin.io/@ajbrownson)
 ---
 
