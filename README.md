@@ -65,19 +65,19 @@ I am enthusiastic about everything tech <img src="https://media.giphy.com/media/
 
 ### :fire: My Stats :
 <div style="display: flex; flex-wrap: wrap; gap: 40px;">
-  <a href="https://git.io/streak-stats">
+  <a href="https://git.io/streak-stats" style="margin: 5px;>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=AJBrownson&theme=dark&background=000000" alt="GitHub Streak" width="400" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin: 5px;>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJBrownson&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="400" />
   </a>
-  <a href="https://quira.sh?utm_source=widgets&utm_campaign=AJ">
+  <a href="https://quira.sh?utm_source=widgets&utm_campaign=AJ" style="margin: 5px;>
     <img src="https://stats.quira.sh/AJ/github?theme=dark" alt="AJ's GitHub | Stats" width="400" />
   </a>
-  <a href="https://quira.sh?utm_source=widgets&utm_campaign=AJ">
+  <a href="https://quira.sh?utm_source=widgets&utm_campaign=AJ" style="margin: 5px;>
     <img src="https://stats.quira.sh/AJ/languages-over-time?theme=dark" alt="AJ's GitHub | Languages Over Time" width="400" />
   </a>
-  <a href="https://quira.sh?utm_source=widgets&utm_campaign=AJ">
+  <a href="https://quira.sh?utm_source=widgets&utm_campaign=AJ" style="margin: 5px;>
     <img src="https://stats.quira.sh/AJ/topics-over-time?theme=dark" alt="AJ's GitHub | Topics Over Time" width="400" />
   </a>
 </div>
