@@ -68,6 +68,7 @@ I am enthusiastic about everything tech <img src="https://media.giphy.com/media/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJBrownson&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![AJ's GitHub | Stats](https://stats.quira.sh/AJ/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AJ)
 ---
 
 ### &#127926; My Music:
