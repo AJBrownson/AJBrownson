@@ -76,14 +76,12 @@ I am enthusiastic about everything tech <img src="https://media.giphy.com/media/
   </a>
 </div>
 
----
-
 <div>
     <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=AJBrownson&theme=dark&background=000000" alt="GitHub Streak" style="width: 100%; height: 200px; object-fit: cover; margin-bottom: 10px;" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=AJBrownson&theme=dark&background=000000" alt="GitHub Streak" style="width: 80%; />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJBrownson&layout=compact&theme=vision-friendly-dark" alt="Top Langs" style="width: 100%; height: 200px; object-fit: cover; margin-bottom: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJBrownson&layout=compact&theme=vision-friendly-dark" alt="Top Langs" style="width: 80%;" />
   </a>
 </div>
 
