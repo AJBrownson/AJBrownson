@@ -66,13 +66,13 @@ I am enthusiastic about everything tech <img src="https://media.giphy.com/media/
 ### :fire: My Stats :
 <div>
   <a href="https://quira.sh?utm_source=widgets&utm_campaign=AJ">
-    <img src="https://stats.quira.sh/AJ/github?theme=dark" alt="AJ's GitHub | Stats" style="width: 100%; height: 200px;" />
+    <img src="https://stats.quira.sh/AJ/github?theme=dark" alt="AJ's GitHub | Stats" style="width: 100%;" />
   </a>
   <a href="https://quira.sh?utm_source=widgets&utm_campaign=AJ">
-    <img src="https://stats.quira.sh/AJ/languages-over-time?theme=dark" alt="AJ's GitHub | Languages Over Time" style="width: 100%; height: 200px;" />
+    <img src="https://stats.quira.sh/AJ/languages-over-time?theme=dark" alt="AJ's GitHub | Languages Over Time" style="width: 100%;" />
   </a>
   <a href="https://quira.sh?utm_source=widgets&utm_campaign=AJ">
-    <img src="https://stats.quira.sh/AJ/topics-over-time?theme=dark" alt="AJ's GitHub | Topics Over Time" style="width: 100%; height: 200px;" />
+    <img src="https://stats.quira.sh/AJ/topics-over-time?theme=dark" alt="AJ's GitHub | Topics Over Time" style="width: 100%;" />
   </a>
 </div>
 
