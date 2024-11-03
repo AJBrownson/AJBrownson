@@ -76,7 +76,7 @@ I am enthusiastic about everything tech <img src="https://media.giphy.com/media/
   </a>
 </div>
 
-<div>
+<div style="display: flex; flex-wrap: wrap;">
     <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=AJBrownson&theme=dark&background=000000" alt="GitHub Streak" style="width: 50%; />
   </a>
